@@ -1,0 +1,6 @@
+{
+  "name": "Madhavi Enterprises",
+  "description": "Premium ecommerce application for mobile accessories and spare parts store.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
